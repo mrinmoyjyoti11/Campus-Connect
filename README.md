@@ -9,21 +9,21 @@
 ## Dashboards
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="Upload_fixed/Screenshot/studentDashboard.png" width="300"/><br>
-      <b>Student Dashboard</b>
-    </td>
+<tr>
+<td align="center">
+<img src="Upload_fixed/Screenshot/studentDashboard.png" width="300">
+<br><b>Student Dashboard</b>
+</td>
 
-    <td align="center">
-      <img src="Upload_fixed/Screenshot/teacherDashboard.png" width="300"/><br>
-      <b>Teacher Dashboard</b>
-    </td>
+<td align="center">
+<img src="Upload_fixed/Screenshot/teacherDashboard.png" width="300">
+<br><b>Teacher Dashboard</b>
+</td>
 
-    <td align="center">
-      <img src="Upload_fixed/Screenshot/adminDashboard.png" width="300"/><br>
-      <b>Admin Dashboard</b>
-    </td>
-  </tr>
+<td align="center">
+<img src="Upload_fixed/Screenshot/adminDashboard.png" width="300">
+<br><b>Admin Dashboard</b>
+</td>
+</tr>
 </table>
 
