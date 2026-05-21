@@ -16,12 +16,12 @@
 </td>
 
 <td align="center">
-<img src="Upload_fixed/Screenshot/teacherDashboard.png" width="300">
+<img src="Upload_fixed/Screenshot/teacherDashboard.png" width="700">
 <br><b>Teacher Dashboard</b>
 </td>
 
 <td align="center">
-<img src="Upload_fixed/Screenshot/adminDashboard.png" width="300">
+<img src="Upload_fixed/Screenshot/adminDashboard.png" width="700">
 <br><b>Admin Dashboard</b>
 </td>
 </tr>
