@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td align="center">
-<img src="Upload_fixed/Screenshot/studentDashboard.png" width="300">
+<img src="Upload_fixed/Screenshot/studentDashboard.png" width="500">
 <br><b>Student Dashboard</b>
 </td>
 
