@@ -8,7 +8,22 @@
 
 ## Dashboards
 
-![Admin Dashboard](Upload_fixed/Screenshot/adminDashboard.png)
-![Teacher Dashboard](Upload_fixed/Screenshot/teacherDashboard.png)
-![Student Dashboard](Upload_fixed/Screenshot/studentDashboard.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="Upload_fixed/Screenshot/studentDashboard.png" width="300"/><br>
+      <b>Student Dashboard</b>
+    </td>
+
+    <td align="center">
+      <img src="Upload_fixed/Screenshot/teacherDashboard.png" width="300"/><br>
+      <b>Teacher Dashboard</b>
+    </td>
+
+    <td align="center">
+      <img src="Upload_fixed/Screenshot/adminDashboard.png" width="300"/><br>
+      <b>Admin Dashboard</b>
+    </td>
+  </tr>
+</table>
 
