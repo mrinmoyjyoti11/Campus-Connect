@@ -4,8 +4,8 @@ A full-stack website to help students and faculties connect.
 
 ## Home Page
 
-![Home Page](home.png)
+![Home Page](screenshots/home.png)
 
 ## Dashboard
 
-![Admin Dashboard](Screenshot 2026-05-21 120720.png)
+![Admin Dashboard](screenshots/adminDashboard.png)
