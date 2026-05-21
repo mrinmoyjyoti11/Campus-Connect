@@ -1,6 +1,6 @@
 # Campus Connect
 
-<h2>A full-stack website to help students and faculties connect.</h2>
+<h4>A full-stack website to help students and faculties connect.</h4>
 
 ## Home Page
 
