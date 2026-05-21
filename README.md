@@ -8,22 +8,18 @@
 
 ## Dashboards
 
-<table>
-<tr>
-<td align="center">
-<img src="Upload_fixed/Screenshot/studentDashboard.png" width="700">
-<br><b>Student Dashboard</b>
-</td>
+<p align="center">
+  <img src="Upload_fixed/Screenshot/studentDashboard.png" width="700"><br>
+  <b>Student Dashboard</b>
+</p>
 
-<td align="center">
-<img src="Upload_fixed/Screenshot/teacherDashboard.png" width="700">
-<br><b>Teacher Dashboard</b>
-</td>
+<p align="center">
+  <img src="Upload_fixed/Screenshot/teacherDashboard.png" width="700"><br>
+  <b>Teacher Dashboard</b>
+</p>
 
-<td align="center">
-<img src="Upload_fixed/Screenshot/adminDashboard.png" width="700">
-<br><b>Admin Dashboard</b>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="Upload_fixed/Screenshot/adminDashboard.png" width="700"><br>
+  <b>Admin Dashboard</b>
+</p>
 
