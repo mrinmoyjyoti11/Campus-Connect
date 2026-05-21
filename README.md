@@ -6,6 +6,9 @@
 
 ![Home Page](Upload_fixed/Screenshot/home.png)
 
-## Dashboard
+## Dashboards
 
-![Admin Dashboard](screenshots/adminDashboard.png)
+![Admin Dashboard](Upload_fixed/Screenshot/adminDashboard.png)
+![Teacher Dashboard](Upload_fixed/Screenshot/teacherDashboard.png)
+![Student Dashboard](Upload_fixed/Screenshot/studentDashboard.png)
+
